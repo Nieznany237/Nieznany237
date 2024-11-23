@@ -1,10 +1,19 @@
-Hiya I'm Nieznany shortly called Niez
+## Hiya, I'm Nieznany (shortly called Niez) 👋
 
-I learn and do IT-related things.
+Just a random guy on the internet learning and doing IT-related things. 🌐
 
-Pronouns: He/Him [Male]
+### About Me
+- I’m currently learning **Python** and **C++** (though I’m not a big fan of C++).
+- Passionate about **nuclear energy**, especially **BWR** reactors. ⚛️
+- I code for fun and to keep learning. 💻
 
-I have no idea how to use GitHub lol
+### Pronouns
+He/Him (Male)
 
-I hope you have a good day :3
-                
+### Fun Fact
+I have no idea how to use GitHub lul 🤷‍♂️
+
+---
+
+I hope you have a great day! :3
+"""
