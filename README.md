@@ -15,5 +15,5 @@ I have no idea how to use GitHub lul 🤷‍♂️
 
 ---
 
-I hope you have a great day! :3
-"""
+Have a great day! :3
+
