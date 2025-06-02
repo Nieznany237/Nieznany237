@@ -1,29 +1,64 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there!%20I'm%20Nieznany237%20👋&fontSize=40)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there!%20I'm%20Nieznany237%20👋&fontSize=40" alt="Banner"/>
+</p>
 
-## 👋 Hi! I'm Nieznany (or just Niez)
+<!-- Social & Stats -->
+<p align="center">
+  <a href="https://github.com/Nieznany237"><img src="https://img.shields.io/github/followers/Nieznany237?label=Follow&style=social"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nieznany237&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/languages/top/Nieznany237/CustomTkinter-Countdown?color=blue" alt="Top Language"/>
+</p>
 
-Just your average internet wanderer messing around with code and learning new things.
+---
+
+<h2 align="center">👋 Hi! I'm Nieznany (or just Niez)</h2>
+
+<p align="center">Just your average internet wanderer, coding for fun and curiosity. Always learning, always exploring.</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- Casual Python programmer (I don’t mess with C++ anymore—rest in peace 💀).
-- Big fan of science, especially nuclear energy (⚛️ BWR reactors are cool).
-- Coding mostly for fun and curiosity, not for world domination (yet).
+- 💻 Casual Python programmer (C++ is history—rest in peace 💀)
+- ⚛️ Science enthusiast, especially nuclear energy (BWR reactors are cool!)
+- 🌱 Always learning something new
+- 🧩 Building projects for fun, not world domination (yet)
 
 ---
 
-### 🔭 My Projects
-
-- [CustomTkinter-Countdown](https://github.com/Nieznany237/CustomTkinter-Countdown) — A simple countdown timer application built with Python and CustomTkinter
-- [Vocabulary-Practice-App](https://github.com/Nieznany237/Vocabulary-Practice-App) — A simple and effective app for practicing vocabulary in two languages using custom word lists.
-- [AutoHibernate](https://github.com/Nieznany237/AutoHibernate) — Automatically puts the system into hibernation after a specified period of time.
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nieznany237&show_icons=true&theme=radical)
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-FFB300?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDLE%20(VS%20Code)-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-> Have a great day! :3
+### 🔭 Featured Projects
+
+- [CustomTkinter-Countdown](https://github.com/Nieznany237/CustomTkinter-Countdown) <br> <sub>🕒 A simple countdown timer app built with Python and CustomTkinter</sub>
+- [Vocabulary-Practice-App](https://github.com/Nieznany237/Vocabulary-Practice-App) <br> <sub>🗣️ Practice vocabulary in two languages with custom word lists</sub>
+- [AutoHibernate](https://github.com/Nieznany237/AutoHibernate) <br> <sub>💤 Automatically puts your system into hibernation after a set time</sub>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nieznany237&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Nieznany237&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nieznany237/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nieznany237&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Have a great day! :3</b>
+</p>
