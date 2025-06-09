@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💻 Casual Python programmer (C++ is history—rest in peace 💀)
+- 💻 Casual Python programmer
 - ⚛️ Science enthusiast, especially nuclear energy (BWR reactors are cool!)
 - 🌱 Always learning something new
 - 🧩 Building projects for fun, not world domination (yet)
