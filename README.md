@@ -47,7 +47,7 @@
 ---
 
 ### 📈 GitHub Metrics
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="60%"></p>
 
 ---
 
