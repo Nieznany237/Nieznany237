@@ -22,7 +22,7 @@
 
 - 💻 Casual Python programmer
 - ⚛️ Science enthusiast, especially nuclear energy (BWR reactors are cool!)
-- 🌱 Always learning something new
+- 🌱 Always learning something new (recently started learning Java☕)
 - 🧩 Building projects for fun, not world domination (yet)
 
 ---
@@ -42,6 +42,12 @@
 - [CustomTkinter-Countdown](https://github.com/Nieznany237/CustomTkinter-Countdown) <br> <sub>🕒 A simple countdown timer app built with Python and CustomTkinter</sub>
 - [Vocabulary-Practice-App](https://github.com/Nieznany237/Vocabulary-Practice-App) <br> <sub>🗣️ Practice vocabulary in two languages with custom word lists</sub>
 - [AutoHibernate](https://github.com/Nieznany237/AutoHibernate) <br> <sub>💤 Automatically puts your system into hibernation after a set time</sub>
+- [Roblox-Friends-Followers-Followings-Tracker](https://github.com/Nieznany237/Roblox-Friends-Followers-Followings-Tracker) <br> <sub>🔔 Python script that monitors changes in your Roblox account's friends, followers, and followings. Sends notifications via Discord and Guilded when new users are added or removed, offering real-time updates on your Roblox connections.</sub>
+
+---
+
+### 📈 GitHub Metrics
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
 
 ---
 
