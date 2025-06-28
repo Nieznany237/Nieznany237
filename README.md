@@ -47,7 +47,7 @@
 ---
 
 ### 📈 GitHub Metrics
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="80%"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="65%"></p>
 
 ---
 
@@ -63,6 +63,8 @@
   </a>
 </p>
 
+![WakaTime Stats](https://wakatime.com/share/@Nieznany237/0b2f329a-77f5-4b11-b60a-d97966928636.svg)
+> WakaTime stats are being tracked since June 16, 2025
 ---
 
 <p align="center">
