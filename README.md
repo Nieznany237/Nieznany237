@@ -64,6 +64,7 @@
 </p>
 
 ![WakaTime Stats](https://wakatime.com/share/@Nieznany237/0b2f329a-77f5-4b11-b60a-d97966928636.svg)
+[![wakatime](https://wakatime.com/badge/user/6d6c58b7-d066-49d8-a654-b60d153bd3a2.svg)](https://wakatime.com/@6d6c58b7-d066-49d8-a654-b60d153bd3a2)
 > WakaTime stats are being tracked since June 16, 2025
 ---
 
